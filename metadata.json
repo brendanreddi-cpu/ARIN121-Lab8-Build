@@ -1,0 +1,6 @@
+{
+  "name": "ScholarQuiz - University Practice Quiz",
+  "description": "Generate practice multiple-choice quizzes with 4 options, full answer keys, and academic explanations from your lecture and study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
